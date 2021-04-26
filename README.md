@@ -25,7 +25,7 @@ Womens Clothing E-Commerce Reviews
 * Class Name: Categorical name of the product class name.
 
 ### Most used words in the reviews: 
-![dataset](word.png)
+![wordconcept](words.png)
 
 ### Brand wise negative and positive text classification: 
 ![brand](brandwise.png))
