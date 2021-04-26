@@ -7,6 +7,7 @@
 
 ### Dataset: 
 Womens Clothing E-Commerce Reviews
+![dataset](dataset.png)
 
 ### This dataset includes 23486 rows and 10 feature variables. Each row corresponds to a customer review, and includes the variables:
 * Delivery ID: Integer Categorical variable that refers to the specific piece purchased.
@@ -22,3 +23,12 @@ Womens Clothing E-Commerce Reviews
 * Division Name: Categorical name of the product high level division.
 * Department Name: Categorical name of the product department name.
 * Class Name: Categorical name of the product class name.
+
+### Most used words in the reviews: 
+![dataset](word.png)
+
+### Brand wise negative and positive text classification: 
+![brand](brandwise.png))
+
+### Type of words used brand wise
+![typeofwords](typeofwords.png)
